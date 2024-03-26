@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 最近學什麼</title>
+    <link>https://blog.nien.cc/notes/</link>
+    <description>Recent content in Notes on 最近學什麼</description>
+    <image>
+      <title>最近學什麼</title>
+      <url>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 27 Jan 2024 18:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.nien.cc/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人生觀點</title>
+      <link>https://blog.nien.cc/notes/%E4%BA%BA%E7%94%9F%E8%A7%80%E9%BB%9E/</link>
+      <pubDate>Sat, 27 Jan 2024 18:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/notes/%E4%BA%BA%E7%94%9F%E8%A7%80%E9%BB%9E/</guid>
+      <description> 素養是有所依據的表達自己的觀點，並在同理共感他人的前提下展開有意義的討論。 </description>
+    </item>
+  </channel>
+</rss>
