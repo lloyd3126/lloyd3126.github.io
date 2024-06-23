@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 最近學什麼</title>
+    <link>https://blog.nien.cc/notes/</link>
+    <description>Recent content in Notes on 最近學什麼</description>
+    <image>
+      <title>最近學什麼</title>
+      <url>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 23 Jun 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.nien.cc/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>筆記 - 定錨站長的 LINE TODAY 專欄：20240621</title>
+      <link>https://blog.nien.cc/notes/notes-opportunity-for-taiwanese-niche-dram-manufacturers-2024/</link>
+      <pubDate>Sun, 23 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/notes/notes-opportunity-for-taiwanese-niche-dram-manufacturers-2024/</guid>
+      <description> 本文筆記自定錨產業筆記於 2024/06/21 發布的文章（ 原文連結 ）
+為什麼重要 由於主流 DRAM 廠商調整產能分配，台系利基型 DRAM 廠商可能迎來營運改善的機會。這對整個半導體產業及相關公司的財務表現有重要影響。
+背景故事 2022 年 Covid-19 疫情期間，PC 和 NB 需求激增，推動 DRAM 需求大幅上升。然而，疫情結束後需求回落，導致各大廠商面臨庫存過剩和價格下滑的壓力。為了應對虧損，三大 DRAM 廠商減產。然而，隨著 AI 伺服器需求的增長，HBM (高帶寬記憶體) 和 DDR5 價格回升，使得三大廠商重新獲利。
+發生了什麼 三大 DRAM 廠商積極擴充 HBM 的產能，從而壓縮了傳統 DRAM 的生產。DDR3 和低容量 DDR4 的供應因此受到影響，價格預計將在 2024 下半年回升。南亞科、華邦電和晶豪科等台系利基型 DRAM 廠商有望因此受益，預計其營運狀況將逐漸改善。
+接下來如何 隨著主流 DRAM 廠商逐步轉向 HBM 和 DDR5 的生產，台系利基型 DRAM 廠商將受益於供應減少和需求回升，報價將逐漸上升。特別是南亞科和晶豪科預計在 2024 下半年看到營運改善，並在 2025 年進一步增強產能和技術。
+他們說什麼 定錨認為，三大 DRAM 廠商的產能轉移將給予台系利基型 DRAM 廠商更大的發展機會。晶豪科因無設備固定攤銷，預計獲利貢獻將更為顯著。而南亞科和華邦電則將在價格回升和需求改善的背景下逐步恢復盈利。
+原文名稱：專欄／產能排擠導致缺貨，台系利基型 DRAM 廠商機會來了？ 原文連結： https://today.line.me/tw/v2/article/rmX2g7j </description>
+    </item>
+    <item>
+      <title>筆記 - 定錨站長的 LINE TODAY 專欄：20240607</title>
+      <link>https://blog.nien.cc/notes/notes-industrial-computer-market-nvidia-jetson-chip-demand/</link>
+      <pubDate>Sat, 22 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/notes/notes-industrial-computer-market-nvidia-jetson-chip-demand/</guid>
+      <description> 本文筆記自定錨產業筆記於 2024/06/07 發布的文章（ 原文連結 ）
+為什麼重要 工業電腦市場正在回升，NVIDIA Jetson 晶片的引入預示著未來將有新的需求，這不僅會改變工業電腦市場的格局，還會帶來更多創新應用。
+背景故事 疫情期間，工業電腦市場因晶圓代工廠產能不足，導致 CPU 晶片供應短缺。然而，隨著疫情結束，晶圓產能逐漸恢復，工業電腦市場開始調整庫存，需求逐漸回升。
+發生了什麼 最近，工業電腦市場出現了新的應用趨勢。除了傳統的 Intel 和 AMD 嵌入式晶片，NVIDIA Jetson 系列晶片因為 ARM 架構的低功耗和模組化設計，開始受到更多客戶的青睞。這些晶片已被應用於道路科技執法、工廠料號自動檢測以及農作物熟成度檢測等領域，帶動了工業電腦的新需求。
+接下來如何 隨著 NVIDIA Jetson 系列晶片的發展和新應用的引入，工業電腦市場將持續回暖。預計在 2025 ～ 2026 年推出的下一代 Jetson Thor 系列晶片，可能應用於機器人領域，進一步推動自動化產業的發展。
+他們說什麼 業界認為，NVIDIA 在 Jetson 工業電腦晶片上的創新，將為工業電腦市場帶來更多需求和應用。台灣的工業電腦廠商如研揚、安堤、宸曜、艾訊和醫揚等，都推出了相關產品，有望在未來持續受惠於新應用需求的增加。
+原文名稱：專欄／工業電腦市場回暖！NVIDIA Jetson 晶片將帶動新需求 原文連結： https://today.line.me/tw/v2/article/60erZgN </description>
+    </item>
+  </channel>
+</rss>

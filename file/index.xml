@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Files on 最近學什麼</title>
+    <link>https://blog.nien.cc/file/</link>
+    <description>Recent content in Files on 最近學什麼</description>
+    <image>
+      <title>最近學什麼</title>
+      <url>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 02 May 2024 20:10:32 +0800</lastBuildDate>
+    <atom:link href="https://blog.nien.cc/file/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>用 ChatGPT 生成運算思維的教案</title>
+      <link>https://blog.nien.cc/file/20240503/</link>
+      <pubDate>Thu, 02 May 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240503/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 - 中文版</title>
+      <link>https://blog.nien.cc/file/20240408/</link>
+      <pubDate>Sun, 07 Apr 2024 08:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240408/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 - 英文版</title>
+      <link>https://blog.nien.cc/file/20240409/</link>
+      <pubDate>Sun, 07 Apr 2024 08:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240409/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>台科大校友回娘家</title>
+      <link>https://blog.nien.cc/file/20240323/</link>
+      <pubDate>Wed, 14 Feb 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240323/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 2</title>
+      <link>https://blog.nien.cc/file/20240226/</link>
+      <pubDate>Wed, 14 Feb 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240226/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 1</title>
+      <link>https://blog.nien.cc/file/20240219/</link>
+      <pubDate>Tue, 13 Feb 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240219/</guid>
+      <description> PDF </description>
+    </item>
+  </channel>
+</rss>
