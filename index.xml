@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最近學什麼</title>
+    <link>https://blog.nien.cc/</link>
+    <description>Recent content on 最近學什麼</description>
+    <image>
+      <title>最近學什麼</title>
+      <url>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 18 Aug 2024 09:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.nien.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>為何 AI 領域成為資本的焦點？Google 前 CEO 的深入分析</title>
+      <link>https://blog.nien.cc/posts/why-ai-attracts-investment-google-former-ceo-analysis/</link>
+      <pubDate>Sun, 18 Aug 2024 09:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/why-ai-attracts-investment-google-former-ceo-analysis/</guid>
+      <description>本文介紹了 AI 領域吸引大量資本的原因。Google 前 CEO Eric Schmidt 認為，技術創新和學習系統的無限潛力使得 AI 成為資本焦點，儘管短期內可能會出現投資泡沫，但最終有創新能力的公司將推動 AI 行業持續發展。</description>
+    </item>
+    <item>
+      <title>Google 前 CEO 如何看待未來的 AI 發展</title>
+      <link>https://blog.nien.cc/posts/google-former-ceo-ai-future-outlook/</link>
+      <pubDate>Sun, 18 Aug 2024 08:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/google-former-ceo-ai-future-outlook/</guid>
+      <description>本文介紹了 Google 前 CEO Eric Schmidt 對未來 AI 發展的看法，強調了超大上下文窗口和文本到行動技術的潛力。這些技術將使 AI 能夠處理更大範圍的資料並執行具體行動，進一步提升 AI 在各領域的應用潛力。</description>
+    </item>
+    <item>
+      <title>筆記 - 定錨站長的 LINE TODAY 專欄：20240621</title>
+      <link>https://blog.nien.cc/notes/notes-opportunity-for-taiwanese-niche-dram-manufacturers-2024/</link>
+      <pubDate>Sun, 23 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/notes/notes-opportunity-for-taiwanese-niche-dram-manufacturers-2024/</guid>
+      <description> 本文筆記自定錨產業筆記於 2024/06/21 發布的文章（ 原文連結 ）
+為什麼重要 由於主流 DRAM 廠商調整產能分配，台系利基型 DRAM 廠商可能迎來營運改善的機會。這對整個半導體產業及相關公司的財務表現有重要影響。
+背景故事 2022 年 Covid-19 疫情期間，PC 和 NB 需求激增，推動 DRAM 需求大幅上升。然而，疫情結束後需求回落，導致各大廠商面臨庫存過剩和價格下滑的壓力。為了應對虧損，三大 DRAM 廠商減產。然而，隨著 AI 伺服器需求的增長，HBM (高帶寬記憶體) 和 DDR5 價格回升，使得三大廠商重新獲利。
+發生了什麼 三大 DRAM 廠商積極擴充 HBM 的產能，從而壓縮了傳統 DRAM 的生產。DDR3 和低容量 DDR4 的供應因此受到影響，價格預計將在 2024 下半年回升。南亞科、華邦電和晶豪科等台系利基型 DRAM 廠商有望因此受益，預計其營運狀況將逐漸改善。
+接下來如何 隨著主流 DRAM 廠商逐步轉向 HBM 和 DDR5 的生產，台系利基型 DRAM 廠商將受益於供應減少和需求回升，報價將逐漸上升。特別是南亞科和晶豪科預計在 2024 下半年看到營運改善，並在 2025 年進一步增強產能和技術。
+他們說什麼 定錨認為，三大 DRAM 廠商的產能轉移將給予台系利基型 DRAM 廠商更大的發展機會。晶豪科因無設備固定攤銷，預計獲利貢獻將更為顯著。而南亞科和華邦電則將在價格回升和需求改善的背景下逐步恢復盈利。
+原文名稱：專欄／產能排擠導致缺貨，台系利基型 DRAM 廠商機會來了？ 原文連結： https://today.line.me/tw/v2/article/rmX2g7j </description>
+    </item>
+    <item>
+      <title>使用 ChatGPT Plus 協助生成目標對象</title>
+      <link>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-persona-generator/</link>
+      <pubDate>Sat, 22 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-persona-generator/</guid>
+      <description>本文介紹了如何使用 ChatGPT Plus 來生成產品提案中的目標對象，特別針對研發人員在進行市場分析時遇到的挑戰。通過設計專業提示詞並包裝成 GPTs，使用者可以快速創建合理且有創意的「人物誌 Persona」，有效減少時間和精力的投入。</description>
+    </item>
+    <item>
+      <title>使用 ChatGPT Plus 製作中文翻譯助理</title>
+      <link>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-chinese-translator/</link>
+      <pubDate>Sat, 22 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-chinese-translator/</guid>
+      <description>本文介紹了如何使用 ChatGPT Plus 來製作一個專業的中文翻譯助理，特別適合需要將英文學術文章翻譯成淺顯易懂的繁體中文報告的工作者。通過設計專業提示詞並包裝成 GPTs，使用者可以生成精確且符合繁體中文表達習慣的翻譯，從而提高報告的品質和可讀性。</description>
+    </item>
+    <item>
+      <title>筆記 - 定錨站長的 LINE TODAY 專欄：20240607</title>
+      <link>https://blog.nien.cc/notes/notes-industrial-computer-market-nvidia-jetson-chip-demand/</link>
+      <pubDate>Sat, 22 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/notes/notes-industrial-computer-market-nvidia-jetson-chip-demand/</guid>
+      <description> 本文筆記自定錨產業筆記於 2024/06/07 發布的文章（ 原文連結 ）
+為什麼重要 工業電腦市場正在回升，NVIDIA Jetson 晶片的引入預示著未來將有新的需求，這不僅會改變工業電腦市場的格局，還會帶來更多創新應用。
+背景故事 疫情期間，工業電腦市場因晶圓代工廠產能不足，導致 CPU 晶片供應短缺。然而，隨著疫情結束，晶圓產能逐漸恢復，工業電腦市場開始調整庫存，需求逐漸回升。
+發生了什麼 最近，工業電腦市場出現了新的應用趨勢。除了傳統的 Intel 和 AMD 嵌入式晶片，NVIDIA Jetson 系列晶片因為 ARM 架構的低功耗和模組化設計，開始受到更多客戶的青睞。這些晶片已被應用於道路科技執法、工廠料號自動檢測以及農作物熟成度檢測等領域，帶動了工業電腦的新需求。
+接下來如何 隨著 NVIDIA Jetson 系列晶片的發展和新應用的引入，工業電腦市場將持續回暖。預計在 2025 ～ 2026 年推出的下一代 Jetson Thor 系列晶片，可能應用於機器人領域，進一步推動自動化產業的發展。
+他們說什麼 業界認為，NVIDIA 在 Jetson 工業電腦晶片上的創新，將為工業電腦市場帶來更多需求和應用。台灣的工業電腦廠商如研揚、安堤、宸曜、艾訊和醫揚等，都推出了相關產品，有望在未來持續受惠於新應用需求的增加。
+原文名稱：專欄／工業電腦市場回暖！NVIDIA Jetson 晶片將帶動新需求 原文連結： https://today.line.me/tw/v2/article/60erZgN </description>
+    </item>
+    <item>
+      <title>使用 ChatGPT Plus 製作文章摘要助理</title>
+      <link>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-article-summaries/</link>
+      <pubDate>Fri, 21 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-article-summaries/</guid>
+      <description>本文介紹了如何使用 ChatGPT Plus 來生成產品提案中的目標對象，尤其適用於研發人員在進行市場分析時遇到的困難。藉由將 ChatGPT 用於「人物誌 Persona」的描繪，使用者能快速創建合理且有創意的目標對象設定，從而提升提案的精確度與效率。</description>
+    </item>
+    <item>
+      <title>用 ChatGPT 生成運算思維的教案</title>
+      <link>https://blog.nien.cc/file/20240503/</link>
+      <pubDate>Thu, 02 May 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240503/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 - 中文版</title>
+      <link>https://blog.nien.cc/file/20240408/</link>
+      <pubDate>Sun, 07 Apr 2024 08:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240408/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 - 英文版</title>
+      <link>https://blog.nien.cc/file/20240409/</link>
+      <pubDate>Sun, 07 Apr 2024 08:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240409/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>翻譯 Sam Altman 於 2023 年 03 月的 abcNEWS 專訪</title>
+      <link>https://blog.nien.cc/translations/translation-sam-altman-2023-march-abcnews-interview/</link>
+      <pubDate>Fri, 23 Feb 2024 18:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/translations/translation-sam-altman-2023-march-abcnews-interview/</guid>
+      <description>本文翻譯自 abcNEWS 於 2023/03/17 發布的文章（ 原文連結 ）
+Sam Altman 承認 AI 存在風險，也對此有所擔心。 OpenAI 的 CEO Sam Altman 認為，人工智慧技術將徹底改變我們熟知的社會。 他揭示，儘管這項技術有真實的風險，但它也有可能變成人類歷史上最偉大的創新，進一步改善我們的生活。
+OpenAI 的 CEO Sam Altman 表示：「我們需要對這件事保持警惕，我認為人們會對我們對此有些擔心感到安心。」
+Altman 接受 ABC News 的首席商業、科技和經濟通訊記者 Rebecca Jarvis 的專訪，並對最新的 AI 語言模式 GPT-4 進行了深入討論。 他強烈認為，應該讓監管機構和社會公眾參與對話生成式預訓練模型的導入，並透過社區回饋來尋找防止這項技術帶來的可能負面影響的方法。 他補充說，他和政府官員有定期的接觸。
+ChatGPT 是一款 AI 語言模型，其中的「GPT」表示生成式預訓練 Transformer。 這個應用程式發布不久以來，已經被譽為史上成長最快的消費性應用程式之一。 在短短幾個月內，它的月活躍用戶已超過 1 億。 相比之下，據瑞銀的一項研究顯示，TikTok 花了九個月才達到這個數量的用戶，而 Instagram 則花了近三年的時間。
+儘管 GPT-4 還不是完美，但根據 Altman 的說法，它在統一律師考試中的表現位於前 10%，在美國大學入學考試的數學部分得到了接近滿分的成績，並且現在可以在多種編程語言中 熟練地撰寫電腦程式碼。
+開發 GPT-4 只是 OpenAI 為達成建立通用人工智能（AGI，Artificial General Intelligence）目標所跨出的一步。 當人工智慧系統在各類任務中普遍超越人類智慧，我們就可以說 AI 已經達到了一個重要的里程碑。</description>
+    </item>
+    <item>
+      <title>翻譯 Sam Altman 的 What I Wish Someone Had Told Me</title>
+      <link>https://blog.nien.cc/translations/translation-sam-altman-what-i-wish-someone-had-told-me/</link>
+      <pubDate>Fri, 23 Feb 2024 12:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/translations/translation-sam-altman-what-i-wish-someone-had-told-me/</guid>
+      <description> 本文翻譯自 Sam Altman 於 2023/12/22 發布的文章（ 原文連結 ）
+事情的開始來自於樂觀、全心投入、自信、強大的動力和人際關係。 事情的完成依靠的是團隊的凝聚力、恰到好處的配合（在冷靜與緊迫感中取得平衡），以及超乎尋常的投入。長期的視角很少見；試著不去在意人們短期的看法，時間會讓這變得更加容易。 對一個團隊來說，完成一件真正重要的困難任務比完成一件無足輕重的簡單任務要容易；大膽的創意能夠激勵人心。 正確設定激勵機制具有不可思議的力量。 把資源集中在少數你深信不疑的重要項目上；這聽起來簡單，但實際上做起來卻很困難。你能夠淘汰的東西比你想的還要多。 清楚且簡潔地溝通。 每當遇到無謂的繁文縟節和官僚主義時，要勇敢地去對抗，並鼓勵其他人也參與其中。不要讓組織架構阻礙人們高效合作。 重視結果而非過程；不要讓過程的正確性成為不佳結果的藉口。 加大招聘力度。對那些潛力巨大且進步迅速的人才勇於冒險。尋找證明他們能夠完成工作的證據，而不僅僅是他們的智慧。 超級明星的價值遠超你的想象，但評估他們時必須考慮他們對整個組織績效的整體影響。 快速迭代能夠彌補許多不足；如果你能夠迅速迭代，通常錯誤是可以被接受的。計畫應以十年為單位，而執行則應以周為單位。 不要試圖挑戰無法改變的商業規則。 靈感易逝，人生短暫。不採取行動是一種特別危險的風險。 規模的增長往往帶來意想不到的新特性。 利用複合增長的魔力。特別是，你應該致力於建立一個能夠隨著規模擴大而獲得複合優勢的業務。 振作起來，繼續前行。 與優秀的人共事是人生中最美好的經歷之一。 </description>
+    </item>
+    <item>
+      <title>台科大校友回娘家</title>
+      <link>https://blog.nien.cc/file/20240323/</link>
+      <pubDate>Wed, 14 Feb 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240323/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 2</title>
+      <link>https://blog.nien.cc/file/20240226/</link>
+      <pubDate>Wed, 14 Feb 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240226/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>用 ChatGPT 輔助製作學習評量 1</title>
+      <link>https://blog.nien.cc/file/20240219/</link>
+      <pubDate>Tue, 13 Feb 2024 20:10:32 +0800</pubDate>
+      <guid>https://blog.nien.cc/file/20240219/</guid>
+      <description> PDF </description>
+    </item>
+    <item>
+      <title>下載嵌入在網站中的 m3u8 影片 3</title>
+      <link>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-3/</link>
+      <pubDate>Sun, 28 Jan 2024 18:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-3/</guid>
+      <description>觀察 .m3u8 檔案請求，分析有畫面無聲音及有聲音無畫面的兩支影片檔案，用 yt-dlp 下載後用 ffmpeg 合併兩者以得到完整的影片檔。</description>
+    </item>
+    <item>
+      <title>下載嵌入在網站中的 m3u8 影片 2</title>
+      <link>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-2/</link>
+      <pubDate>Sun, 28 Jan 2024 12:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-2/</guid>
+      <description>使用網路開發工具觀察 .m3u8 檔案請求，從清單中找到影片檔名及下載路徑，複製清單的請求網址，最後用 yt-dlp 下載</description>
+    </item>
+    <item>
+      <title>下載嵌入在網站中的 m3u8 影片 1</title>
+      <link>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-1/</link>
+      <pubDate>Sat, 27 Jan 2024 12:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-1/</guid>
+      <description>用 yt-dlp 下載嵌入在網站中的 m3u8 影片的解決方法。透過確認登入狀態的 Cookie 和網頁開發工具，成功輸入指令下載目標影片。</description>
+    </item>
+    <item>
+      <title>設定自動部署 Hugo 的除錯紀錄</title>
+      <link>https://blog.nien.cc/posts/automatically-deploy-hugo-encountered-exceptions/</link>
+      <pubDate>Sat, 20 Jan 2024 18:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/automatically-deploy-hugo-encountered-exceptions/</guid>
+      <description>自動部署Hugo時的除錯紀錄：異常一解決模組安裝錯誤，異常二解決部署權限錯誤。設定檔包括GitHub Actions Workflows和相關參考文章。</description>
+    </item>
+    <item>
+      <title>總覽</title>
+      <link>https://blog.nien.cc/slides/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nien.cc/slides/overview/</guid>
+      <description> # PDF HTML 簡報 1 連結 連結 用 ChatGPT 輔助製作學習評量 1 2 連結 連結 用 ChatGPT 輔助製作學習評量 2 3 連結 連結 台科大校友回娘家 4 連結 連結 用 ChatGPT 輔助製作學習評量 - 中文版 5 連結 連結 用 ChatGPT 輔助製作學習評量 - 英文版 6 連結 連結 用 ChatGPT 生成運算思維的教案 </description>
+    </item>
+    <item>
+      <title>觀點</title>
+      <link>https://blog.nien.cc/posts/view-point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nien.cc/posts/view-point/</guid>
+      <description>2024-07-05 素養是有所依據的表達自己的觀點，並在同理共感他人的前提下展開有意義的討論。</description>
+    </item>
+  </channel>
+</rss>

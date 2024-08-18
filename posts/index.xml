@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 最近學什麼</title>
+    <link>https://blog.nien.cc/posts/</link>
+    <description>Recent content in Posts on 最近學什麼</description>
+    <image>
+      <title>最近學什麼</title>
+      <url>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.nien.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 18 Aug 2024 09:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.nien.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>為何 AI 領域成為資本的焦點？Google 前 CEO 的深入分析</title>
+      <link>https://blog.nien.cc/posts/why-ai-attracts-investment-google-former-ceo-analysis/</link>
+      <pubDate>Sun, 18 Aug 2024 09:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/why-ai-attracts-investment-google-former-ceo-analysis/</guid>
+      <description>本文介紹了 AI 領域吸引大量資本的原因。Google 前 CEO Eric Schmidt 認為，技術創新和學習系統的無限潛力使得 AI 成為資本焦點，儘管短期內可能會出現投資泡沫，但最終有創新能力的公司將推動 AI 行業持續發展。</description>
+    </item>
+    <item>
+      <title>Google 前 CEO 如何看待未來的 AI 發展</title>
+      <link>https://blog.nien.cc/posts/google-former-ceo-ai-future-outlook/</link>
+      <pubDate>Sun, 18 Aug 2024 08:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/google-former-ceo-ai-future-outlook/</guid>
+      <description>本文介紹了 Google 前 CEO Eric Schmidt 對未來 AI 發展的看法，強調了超大上下文窗口和文本到行動技術的潛力。這些技術將使 AI 能夠處理更大範圍的資料並執行具體行動，進一步提升 AI 在各領域的應用潛力。</description>
+    </item>
+    <item>
+      <title>使用 ChatGPT Plus 協助生成目標對象</title>
+      <link>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-persona-generator/</link>
+      <pubDate>Sat, 22 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-persona-generator/</guid>
+      <description>本文介紹了如何使用 ChatGPT Plus 來生成產品提案中的目標對象，特別針對研發人員在進行市場分析時遇到的挑戰。通過設計專業提示詞並包裝成 GPTs，使用者可以快速創建合理且有創意的「人物誌 Persona」，有效減少時間和精力的投入。</description>
+    </item>
+    <item>
+      <title>使用 ChatGPT Plus 製作中文翻譯助理</title>
+      <link>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-chinese-translator/</link>
+      <pubDate>Sat, 22 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-chinese-translator/</guid>
+      <description>本文介紹了如何使用 ChatGPT Plus 來製作一個專業的中文翻譯助理，特別適合需要將英文學術文章翻譯成淺顯易懂的繁體中文報告的工作者。通過設計專業提示詞並包裝成 GPTs，使用者可以生成精確且符合繁體中文表達習慣的翻譯，從而提高報告的品質和可讀性。</description>
+    </item>
+    <item>
+      <title>使用 ChatGPT Plus 製作文章摘要助理</title>
+      <link>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-article-summaries/</link>
+      <pubDate>Fri, 21 Jun 2024 10:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/using-chatgpt-plus-to-create-article-summaries/</guid>
+      <description>本文介紹了如何使用 ChatGPT Plus 來生成產品提案中的目標對象，尤其適用於研發人員在進行市場分析時遇到的困難。藉由將 ChatGPT 用於「人物誌 Persona」的描繪，使用者能快速創建合理且有創意的目標對象設定，從而提升提案的精確度與效率。</description>
+    </item>
+    <item>
+      <title>下載嵌入在網站中的 m3u8 影片 3</title>
+      <link>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-3/</link>
+      <pubDate>Sun, 28 Jan 2024 18:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-3/</guid>
+      <description>觀察 .m3u8 檔案請求，分析有畫面無聲音及有聲音無畫面的兩支影片檔案，用 yt-dlp 下載後用 ffmpeg 合併兩者以得到完整的影片檔。</description>
+    </item>
+    <item>
+      <title>下載嵌入在網站中的 m3u8 影片 2</title>
+      <link>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-2/</link>
+      <pubDate>Sun, 28 Jan 2024 12:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-2/</guid>
+      <description>使用網路開發工具觀察 .m3u8 檔案請求，從清單中找到影片檔名及下載路徑，複製清單的請求網址，最後用 yt-dlp 下載</description>
+    </item>
+    <item>
+      <title>下載嵌入在網站中的 m3u8 影片 1</title>
+      <link>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-1/</link>
+      <pubDate>Sat, 27 Jan 2024 12:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/download-embedded-m3u8-video-on-website-1/</guid>
+      <description>用 yt-dlp 下載嵌入在網站中的 m3u8 影片的解決方法。透過確認登入狀態的 Cookie 和網頁開發工具，成功輸入指令下載目標影片。</description>
+    </item>
+    <item>
+      <title>設定自動部署 Hugo 的除錯紀錄</title>
+      <link>https://blog.nien.cc/posts/automatically-deploy-hugo-encountered-exceptions/</link>
+      <pubDate>Sat, 20 Jan 2024 18:00:00 +0800</pubDate>
+      <guid>https://blog.nien.cc/posts/automatically-deploy-hugo-encountered-exceptions/</guid>
+      <description>自動部署Hugo時的除錯紀錄：異常一解決模組安裝錯誤，異常二解決部署權限錯誤。設定檔包括GitHub Actions Workflows和相關參考文章。</description>
+    </item>
+    <item>
+      <title>觀點</title>
+      <link>https://blog.nien.cc/posts/view-point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.nien.cc/posts/view-point/</guid>
+      <description>2024-07-05 素養是有所依據的表達自己的觀點，並在同理共感他人的前提下展開有意義的討論。</description>
+    </item>
+  </channel>
+</rss>
